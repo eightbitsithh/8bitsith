@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, Initial-s
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Simone Portfolio</title>
+  <link rel="stylesheet" href="css/main.css">
+ </head>
+ <body>
+ 
+ <div class="hero">
+  <h1><span> Welcome to my</span>Porfolio</h1>
+ </div>
+ 
+ <section class="welcome">
+  <div class="welcome-left">
+  --img goes here--
+  </div>
+  <div class="welcome-middle">
+   <h2>Making it happen</h2>
+   <p> bleh bleh something lorem ipsum goes here </p>
+  </div>
+  <div class="welcome-right">
+   --img goes here--
+  </div>
+ </section>
+ 
+ <section class ="about-me">
+ -- img goes here--
+ 
